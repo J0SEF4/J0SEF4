@@ -34,6 +34,8 @@ Former dissemination and marketing coordinator at Open Source UC, professor assi
 ![Scikit-image](https://img.shields.io/badge/scikit--image-0D528B?style=for-the-badge&logo=scikit-image&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Torchvision](https://img.shields.io/badge/torchvision-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-FF6F00?style=for-the-badge&logo=keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
@@ -41,11 +43,6 @@ Former dissemination and marketing coordinator at Open Source UC, professor assi
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4F79C4?style=for-the-badge&logo=seaborn&logoColor=white)
-
-
-
-
-
 
 ![Profile views](https://komarev.com/ghpvc/?username=J0SEF4&label=Profile%20views&color=00008B&labelColor=000000&style=flat-square)
 <!--
