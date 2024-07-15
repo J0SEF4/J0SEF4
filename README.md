@@ -10,7 +10,7 @@ Former dissemination and marketing coordinator at Open Source UC, professor assi
 
 📫 Most complete CV on LinkedIn and where you can reach me.
 
-### Language and tools
+## Language and tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -29,8 +29,14 @@ Former dissemination and marketing coordinator at Open Source UC, professor assi
 ![Data Mining](https://img.shields.io/badge/Data%20Mining-FF5722?style=for-the-badge&logo=databricks&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=deeplearning&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-![Profile Views](https://img.shields.io/github/visitors/J0SEF4/J0SEF4)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=J0SEF4.J0SEF4)
 <!--
 See my website for more details.
 💬 Feel free to contact me if you're looking to collaborate on something!
