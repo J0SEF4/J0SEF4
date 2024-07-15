@@ -36,7 +36,7 @@ Former dissemination and marketing coordinator at Open Source UC, professor assi
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=J0SEF4.J0SEF4)
+![Profile views](https://komarev.com/ghpvc/?username=J0SEF4&label=Profile%20views&color=f57900&style=flat)
 <!--
 See my website for more details.
 💬 Feel free to contact me if you're looking to collaborate on something!
