@@ -6,7 +6,7 @@ Former dissemination and marketing coordinator at Open Source UC, professor assi
 
 🔭 I'm working my way to become a great front-end dev and data scientist.
 
-🌱 I’m currently learning to use arduino.
+🌱 I’m currently learning to apply my knowledge in robotics.
 
 📫 Most complete CV on LinkedIn and where you can reach me.
 
@@ -36,7 +36,7 @@ Former dissemination and marketing coordinator at Open Source UC, professor assi
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-![Profile views](https://komarev.com/ghpvc/?username=J0SEF4&label=Profile%20views&color=f57900&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=J0SEF4&label=Profile%20views&color=00008B&labelColor=000000&style=flat-square)
 <!--
 See my website for more details.
 💬 Feel free to contact me if you're looking to collaborate on something!
