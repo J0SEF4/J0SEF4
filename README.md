@@ -2,7 +2,7 @@
 
 I am a student at the Pontificia Universidad Católica de Chile, in Industrial Computer Engineering, with a major in Software and a minor in Data Science & Analytics.
 
-Former dissemination and marketing coordinator at Open Source UC, professor assistant in some courses, monitor at the National Center for Artificial Intelligence, monitor at Technovation Girls.
+Former dissemination and marketing coordinator at Open Source UC, professor assistant in some courses, monitor at the National Center for Artificial Intelligence from Chile, monitor at Technovation Girls.
 
 🔭 I'm working my way to become a great front-end dev and data scientist.
 
